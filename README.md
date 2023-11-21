@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adithya Manjunath</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<p>Welcome to my GitHub playground! 🚀 I'm a dedicated and enthusiastic individual on a quest to discover my Ikigai - that sweet spot where passion, mission, vocation, and profession converge. 🌟 </p></br>
+<p>I spend my time here playing with Raspberry Pi (because who doesn't love a good tech experiment?), creating 3D-printed wonders, and diving into projects that are just plain cool. From coding adventures to wandering into new territories, I'm all about that fun and excitement.</p></br>
+<p>Join me on this journey of curiosity and exploration! Feel free to explore my GitHub profile, where my projects come to life.Who knows, you might stumble upon something that tickles your tech fancy! 🛠️💻 Let's connect, collaborate, and build something awesome together. 🛠️💡</p></br>
+<p>Happy coding! 🚧✨</p></br>
+
 - 📫 How to reach me **📧 adithyam211@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qrdQuczUWaYLQ3lWWGe93X0Afngd3Z_T/view?usp=drivesdk](https://drive.google.com/file/d/1qrdQuczUWaYLQ3lWWGe93X0Afngd3Z_T/view?usp=drivesdk)
