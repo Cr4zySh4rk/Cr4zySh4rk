@@ -3,7 +3,7 @@
 <p align="left">Love working on projects using Raspberry Pi, and various microcontrollers. </br>I use MacOS/Linux and enjoy writing shell scripts to automate things.</p>
 <div align-items="center">
   <p>
-    <img align="top" width=49% src = "https://github-readme-stats.vercel.app/api?username=Cr4zySh4rk&show_icons=true&theme=radical&hide_rank=true" /> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="top" width=49% src = "https://github-readme-stats.vercel.app/api?username=Cr4zySh4rk&show_icons=true&theme=radical&hide_rank=true" /> &nbsp;&nbsp;
     <img align="top" width=47.5% src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cr4zySh4rk&layout=compact&theme=radical" />
   </p>
   <p align="left">
