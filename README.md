@@ -3,4 +3,4 @@
 <p align="left">Love working on projects using Raspberry Pi, and various microcontrollers. </br>I use MacOS/Linux and enjoy writing shell scripts to automate things.</p>
 <img align="left" src = "https://github-readme-stats.vercel.app/api?username=Cr4zySh4rk&show_icons=true&theme=radical" />
 <img align="left" height=120% width=38% src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cr4zySh4rk&layout=compact&theme=radical" />
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Cr4zySh4rk&theme=dark&currStreakNum=ffffff&hide_border=true" />
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Cr4zySh4rk&theme=radical&currStreakNum=ffffff&hide_border=true" />
