@@ -7,6 +7,6 @@
     <img align="top" width=42% src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cr4zySh4rk&layout=compact&theme=radical" />
   </p>
   <p align="left">
-    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Cr4zySh4rk&theme=radical" />
+    <img width=100% src = "https://github-readme-streak-stats.herokuapp.com/?user=Cr4zySh4rk&theme=radical" />
   </p>
 </div>
