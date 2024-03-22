@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithya Manjunath</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<p>Love working on projects using Raspberry Pi, and various microcontrollers. Love MacOS/Linux and writing shell scripts to automate things.</p>
+<h3 align="left">A passionate Software Engineer from India</h3>
+<p align="left>Love working on projects using Raspberry Pi, and various microcontrollers. Love MacOS/Linux and writing shell scripts to automate things.</p>
 <img align="left" src = "https://github-readme-stats.vercel.app/api?username=Cr4zySh4rk&show_icons=true&theme=radical" />
 <img align="left" width=38% src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cr4zySh4rk&layout=compact&theme=radical" />
